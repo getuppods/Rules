@@ -1,5 +1,13 @@
 #reddit
+.redd.it
+.reddit.app.link
 .reddit.com
+.reddithelp.com
+.redditmail.com
+.redditmedia.com
+.redditstatic.com
+.redd.it
+.reddit.map.fastly.net
 
 #disneyplus
 .disney.asia
@@ -148,4 +156,4 @@
 .netflixdnstest9.com
 .netflixdnstest10.com
 .amazonaws.com
-.edgesuite.net
+.netflix.com.edgesuite.net
