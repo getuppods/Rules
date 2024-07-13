@@ -160,6 +160,3 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN,reddit.map.fastly.net
-
-# Youtube
-DOMAIN-SUFFIX,googlevideo.com
