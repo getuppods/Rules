@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,disneytickets.co.uk
 DOMAIN-SUFFIX,disneyturkiye.com.tr
 DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
+DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
@@ -149,6 +150,3 @@ DOMAIN-WILDCARD,apiproxy-website-nlb-prod-*.amazonaws.com
 DOMAIN-WILDCARD,dualstack.apiproxy-*.amazonaws.com
 DOMAIN-WILDCARD,dualstack.ichnaea-web-*.amazonaws.com
 DOMAIN,netflix.com.edgesuite.net
-
-# Youtube
-DOMAIN-SUFFIX,googlevideo.com
